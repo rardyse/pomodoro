@@ -1,5 +1,9 @@
 # pomodoro
 
+
+IN CONSTRUCTION 
+
+
 ## quick presentation :
 
 this project was created as a little productivity buddy for myself during long study sessions or work blocks, because I found the default one on my computer VERY boring. 
